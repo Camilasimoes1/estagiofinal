@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>estado</title>
+</head>
+<body>
+<div class="PBlica" style="width: 100%; height: 100%; position: relative; background: white">
+    <div class="Rectangle12" style="width: 1440px; height: 88px; left: 0px; top: 0px; position: absolute; background: #1E1E1E"></div>
+    <div class="Component2" style="width: 60px; height: 48px; left: 377px; top: 41px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Home" style="width: 60px; height: 48px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">HOME</div>
+    </div>
+    <div class="Component3" style="width: 146px; height: 24px; left: 486px; top: 41px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Home" style="width: 146px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">QUEM SOMOS</div>
+    </div>
+    <div class="Component4" style="width: 100px; height: 24px; left: 681px; top: 41px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Home" style="width: 100px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">SERVIÇOS</div>
+    </div>
+    <div class="Component5" style="width: 83px; height: 24px; left: 830px; top: 42px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Home" style="width: 83px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">CURSOS</div>
+    </div>
+    <div class="Component6" style="width: 100px; height: 24px; left: 962px; top: 41px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Home" style="width: 100px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">CONTATO</div>
+    </div>
+    <div class="GestODeEstGioDeUniversidadePBlica" style="width: 817px; left: 322px; top: 143px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">GESTÃO DE ESTÁGIO DE UNIVERSIDADE PÚBLICA</div>
+    <div class="ASolu" style="width: 792px; height: 429px; left: 58px; top: 200px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">A Solução de Gestão de Estágio em Universidade Pública é voltada para os setores administrativos, mas tambem pode abranger áreas especializadas, como a Saude, Comunicação e Departamento Juridico. Dependedo da vaga ainda pode ocorrer processos seletivos.<br/>Diferente das empresas privadas, o estagiário pode optar pela carga horária de 4 horas (20 horas semanais) ou 6 horas (30 horas semanais). Isso pode ser um ponto favorável para estudantes que precisam de mais tempo para se dedicar aos estudos, porém é preciso ressaltar que o valor da bolsa deve ser modificado de acordo com o horário escolhido.<br/>Outro ponto importante é que os estagiarios em setores públicos não têm chance de efetivação, uma vez que é preciso prestar concurso público para se tornar funcionário. Isso já não se aplica às empresas privadas, visto que as chances de efetivação são maiores, se o estagiario um bom desempenho.</div>
+    
+    <img class="foto" style="width: 510px; height: 425px; left: 885px; top: 200px; position: absolute" src="C:\Users\camil\Downloads\3e94d0f0a3e85e116b7e2d2eb7455404192890fd.jpg" />
+    
+    <div class="Rectangle22" style="width: 1440px; height: 598px; left: 0px; top: 714px; position: absolute; background: #070707"></div>
+    
+    <img class="conteudo" style="width: 1324px; height: 407px; left: 58px; top: 741px; position: absolute" src="C:\Users\camil\Downloads\331a9a41ffd31c7e87c8a1b87c56f21a7ba5b40c.png" />
+   
+    <div class="Component13" style="width: 240px; height: 75px; left: 611px; top: 1148px; position: absolute">
+        <div class="Rectangle4" style="width: 240px; height: 75px; left: 0px; top: 10px; position: absolute; background: #FFA800; border-radius: 9px"></div>
+        <div class="ConheAMais" style="left: 42px; top: 32px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">Comece agora</div>
+    </div>
+    
+    <img class="logo" style="width: 213px; height: 49px; left: 6px; top: 28px; position: absolute" src="C:\Users\camil\Downloads\c4e8c9350be8d5cd35c84486e5c3635f2a393cff.png" />
+  
+    <div class="Rectangle32" style="width: 260px; height: 49px; left: 59px; top: 28px; position: absolute; background: #1E1E1E"></div>
+    <div class="ConectUniversidades" style="width: 264px; height: 29px; left: 64px; top: 38px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Conect Universidades</div>
+</div>
+
+
+  </body>
+</html>
