@@ -1,49 +1,338 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>estado</title>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" />
+  	
+  	
+  	
 </head>
 <body>
-<div class="JovemAprendiz" style="width: 100%; height: 100%; position: relative; background: white">
-    <div class="Rectangle29" style="width: 1440px; height: 208px; left: 0px; top: 788px; position: absolute; background: #060606"></div>
-    <div class="Rectangle28" style="width: 1440px; height: 380px; left: 0px; top: 996px; position: absolute; background: #060606"></div>
-    <div class="Rectangle13" style="width: 1440px; height: 88px; left: 0px; top: 0px; position: absolute; background: #1E1E1E"></div>
-    <div class="Component7" style="width: 60px; height: 48px; left: 377px; top: 32px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-        <div class="Home" style="width: 60px; height: 48px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">HOME</div>
-    </div>
-    <div class="Component8" style="width: 146px; height: 24px; left: 486px; top: 32px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-        <div class="Home" style="width: 146px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">QUEM SOMOS</div>
-    </div>
-    <div class="Component9" style="width: 100px; height: 24px; left: 681px; top: 32px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-        <div class="Home" style="width: 100px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">SERVIÇOS</div>
-    </div>
-    <div class="Component10" style="width: 83px; height: 24px; left: 830px; top: 33px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-        <div class="Home" style="width: 83px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">CURSOS</div>
-    </div>
-    <div class="Component11" style="width: 100px; height: 24px; left: 962px; top: 32px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
-        <div class="Home" style="width: 100px; height: 24px; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">CONTATO</div>
-    </div>
-    
-    <img class="conteudo" style="width: 1320px; height: 370px; left: 60px; top: 828px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/331a9a41ffd31c7e87c8a1b87c56f21a7ba5b40c.png?raw=true" />
-    
-    <div class="Component47" style="width: 240px; height: 75px; left: 600px; top: 1240px; position: absolute">
-        <div class="Rectangle4" style="width: 240px; height: 75px; left: 0px; top: 0px; position: absolute; background: #FFA800; border-radius: 9px"></div>
-        <div class="ConheAMais" style="left: 40.62px; top: 24px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">Comece agora</div>
-    </div>
-    
-    <img class="logo" style="width: 213px; height: 49px; left: 6px; top: 20px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/c4e8c9350be8d5cd35c84486e5c3635f2a393cff.png?raw=true" />
-    
-    <div class="Rectangle32" style="width: 260px; height: 49px; left: 59px; top: 20px; position: absolute; background: #1E1E1E"></div>
-    <div class="ConectUniversidades" style="width: 264px; height: 29px; left: 64px; top: 30px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Conect Universidades</div>
-    <div class="JovemAprendiz" style="left: 563px; top: 123px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">JOVEM APRENDIZ</div>
-    <div class="OPrograma" style="width: 798px; height: 522px; left: 50px; top: 198px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">O programa Jovem Aprendiz é um projeto do governo federal para incentivar empresas a desenvolverem programas de aprendizagem para jovens e adolescentes, entre 14 e 24 anos, que esteja matriculado e frequentando a escola, caso não tenha concluído o Ensino Médio e inscrito em programa de aprendizagem.<br/>A Aprendizagem Profissional foi estabelecida pela Lei nº.10.097/2000, regulamentada pelo Decreto nº. 5.598/2005 e posteriormente pelo Decreto n° 9.579/2018, e cria oportunidades tanto para o aprendiz (jovens entre 14 e 24 anos) quanto para as empresas.<br/>O prazo máximo de duração do estágio em uma mesma empresa é de dois anos, exceto para estagiários portadores de deficiência.<br/>Conforme o disposto na Lei de Estágio nº 11.788/2008, a carga horária de estágio precisa obedecer os limites a seguir: • 6 (seis) horas diárias e 30 (trinta) horas semanais, para o estudante de ensino superior, profissionalizante e de ensino médio regular; • 4 (quatro) horas diárias e 20 (vinte) horas semanais, para os estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos.</div>
-    
-    <img class="Rectangle15" style="width: 525px; height: 426px; left: 882px; top: 226px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/0b5d3321026442e50546870e79cbd63f01e0a70b.jpg?raw=true" />
-</div>
+  	
+  	<div class="jovem-aprendiz">
+    		<div class="jovem-aprendiz-child">
+    		</div>
+    		<div class="jovem-aprendiz-item">
+    		</div>
+    		<img class="jovem-aprendiz-inner" alt="conteudo" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/331a9a41ffd31c7e87c8a1b87c56f21a7ba5b40c.png?raw=true">
+    		
+    		<div class="component-47">
+      			<div class="component-47-child">
+      			</div>
+      			<div class="conhea-mais">Comece agora</div>
+    		</div>
+    		<b class="jovem-aprendiz1">JOVEM APRENDIZ</b>
+    		<div class="o-programa-jovem-container">
+      			<p class="o-programa-jovem">O programa Jovem Aprendiz é um projeto do governo federal para incentivar empresas a desenvolverem programas de aprendizagem para jovens e adolescentes, entre 14 e 24 anos, que esteja matriculado e frequentando a escola, caso não tenha concluído o Ensino Médio e inscrito em programa de aprendizagem.</p>
+      			<p class="o-programa-jovem">A Aprendizagem Profissional foi estabelecida pela Lei nº.10.097/2000, regulamentada pelo Decreto nº. 5.598/2005 e posteriormente pelo Decreto n° 9.579/2018, e cria oportunidades tanto para o aprendiz (jovens entre 14 e 24 anos) quanto para as empresas.</p>
+      			<p class="o-programa-jovem">O prazo máximo de duração do estágio em uma mesma empresa é de dois anos, exceto para estagiários portadores de deficiência.</p>
+      			<p class="o-programa-jovem">Conforme o disposto na Lei de Estágio nº 11.788/2008, a carga horária de estágio precisa obedecer os limites a seguir: • 6 (seis) horas diárias e 30 (trinta) horas semanais, para o estudante de ensino superior, profissionalizante e de ensino médio regular; • 4 (quatro) horas diárias e 20 (vinte) horas semanais, para os estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos.</p>
+    		</div>
+    		<img class="rectangle-icon" alt="foto1" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/0b5d3321026442e50546870e79cbd63f01e0a70b.jpg?raw=true">
+    		
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="component-2">
+      			<div class="home">HOME</div>
+    		</div>
+    		<div class="component-3">
+      			<div class="home">QUEM SOMOS</div>
+    		</div>
+    		<div class="component-5">
+      			<div class="home">CURSOS</div>
+    		</div>
+    		<div class="component-6">
+      			<div class="home">CONTATO</div>
+    		</div>
+    		<div class="frame-div">
+      			<div class="frame-parent">
+        				<div class="component-4-wrapper">
+          					<div class="component-4">
+            						<div class="home">SERVIÇOS</div>
+          					</div>
+        				</div>
+        				<div class="component-43-parent">
+          					<div class="component-43">
+            						<div class="component-42">
+              							<div class="home5">  Estágio para Universidad Privada</div>
+            						</div>
+          					</div>
+          					<div class="component-44">
+            						<div class="component-42">
+              							<div class="home6"> Jovem Aprendiz</div>
+            						</div>
+          					</div>
+          					<div class="component-44">
+            						<div class="component-42">
+              							<div class="home5">  Estágio para Universidad Pública</div>
+            						</div>
+          					</div>
+        				</div>
+      			</div>
+    		</div>
+    		<img class="captura-de-tela-2024-07-04-173" alt="logo" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/c4e8c9350be8d5cd35c84486e5c3635f2a393cff.png?raw=true">
+    		
+    		<div class="jovem-aprendiz-child1">
+    		</div>
+    		<div class="conect-universidades">Conect Universidades</div>
+  	</div>
+  	
+  	<style>
+        .jovem-aprendiz-child {
+  	position: absolute;
+  	top: 788px;
+  	left: 0px;
+  	background-color: #060606;
+  	width: 1524px;
+  	height: 208px;
+}
+.jovem-aprendiz-item {
+  	position: absolute;
+  	top: 996px;
+  	left: 0px;
+  	background-color: #060606;
+  	width: 1524px;
+  	height: 380px;
+}
+.jovem-aprendiz-inner {
+  	position: absolute;
+  	top: 828px;
+  	left: 42px;
+  	width: 1440px;
+  	height: 419px;
+  	object-fit: cover;
+}
+.component-47-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 9px;
+  	background-color: #ffa800;
+}
+.conhea-mais {
+  	position: absolute;
+  	top: 32%;
+  	left: 16.92%;
+  	font-weight: 500;
+}
+.component-47 {
+  	position: absolute;
+  	top: 1242px;
+  	left: 642px;
+  	width: 240px;
+  	height: 75px;
+  	font-size: 24px;
+}
+.jovem-aprendiz1 {
+  	position: absolute;
+  	top: 123px;
+  	left: 563px;
+  	font-size: 32px;
+  	color: #000;
+}
+.o-programa-jovem {
+  	margin: 0;
+}
+.o-programa-jovem-container {
+  	position: absolute;
+  	top: 198px;
+  	left: 50px;
+  	font-size: 24px;
+  	color: #000;
+  	display: inline-block;
+  	width: 872px;
+  	height: 522px;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 222px;
+  	left: 950px;
+  	width: 508px;
+  	height: 466px;
+  	object-fit: cover;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #1e1e1e;
+  	width: 1524px;
+  	height: 109px;
+}
+.home {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	display: inline-block;
+}
+.component-2 {
+  	position: absolute;
+  	top: 54px;
+  	left: 478px;
+  	width: 60px;
+  	height: 48px;
+}
+.component-3 {
+  	position: absolute;
+  	top: 54px;
+  	left: 571px;
+  	width: 146px;
+  	height: 24px;
+}
+.component-5 {
+  	position: absolute;
+  	top: 54px;
+  	left: 884px;
+  	width: 83px;
+  	height: 24px;
+}
+.component-6 {
+  	position: absolute;
+  	top: 54px;
+  	left: 1000px;
+  	width: 100px;
+  	height: 24px;
+}
+.component-4 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 100px;
+  	height: 24px;
+}
+.component-4-wrapper {
+  	width: 100px;
+  	position: relative;
+  	height: 24px;
+}
+.home5 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.02em;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+}
+.component-42 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #fff;
+}
+.component-43 {
+  	align-self: stretch;
+  	position: relative;
+  	height: 41px;
+}
+.home6 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.02em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+}
+.component-44 {
+  	align-self: stretch;
+  	position: relative;
+  	height: 41px;
+  	margin-top: -50px;
+}
+.component-43-parent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+  	font-size: 16px;
+  	color: #000;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 108px;
+  	height: 31px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 19px;
+}
+.frame-div {
+  	position: absolute;
+  	top: 51px;
+  	left: 739px;
+  	width: 108px;
+  	height: 31px;
+}
+.captura-de-tela-2024-07-04-173 {
+  	position: absolute;
+  	top: 37px;
+  	left: 7px;
+  	width: 213px;
+  	height: 49px;
+  	object-fit: cover;
+}
+.jovem-aprendiz-child1 {
+  	position: absolute;
+  	top: 37px;
+  	left: 60px;
+  	background-color: #1e1e1e;
+  	width: 260px;
+  	height: 49px;
+}
+.conect-universidades {
+  	position: absolute;
+  	top: 47px;
+  	left: 65px;
+  	font-size: 24px;
+  	display: inline-block;
+  	width: 264px;
+  	height: 29px;
+}
+.jovem-aprendiz {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 1376px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: Inter;
+}
 
 
+body {
+  	margin: 0;
+  	line-height: normal;
+}
 
-  </body>
+
+    </style>
+  	
+  	
+</body>
 </html>
