@@ -1,141 +1,915 @@
-<div style="width: 1440; height: 4030; position: relative; background: white; overflow: hidden">
-    <div style="width: 1440px; height: 425px; left: 0px; top: 3611px; position: absolute; background: #1E1E1E"></div>
-    <div style="width: 1440px; height: 109px; left: 0px; top: 0px; position: absolute; background: #1E1E1E"></div>
-    <div data-property-1="HOME" style="width: 60px; height: 48px; left: 378px; top: 54px; position: absolute">
-        <div style="width: 60px; height: 48px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">HOME</div>
-    </div>
-    <div data-property-1="HOME" style="width: 146px; height: 24px; left: 487px; top: 54px; position: absolute">
-        <div style="width: 146px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">QUEM SOMOS</div>
-    </div>
-    <div data-property-1="HOME" style="width: 83px; height: 24px; left: 831px; top: 55px; position: absolute">
-        <div style="width: 83px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">CURSOS</div>
-    </div>
-    <div data-property-1="HOME" style="width: 100px; height: 24px; left: 963px; top: 54px; position: absolute">
-        <div style="width: 100px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">CONTATO</div>
-    </div>
-    <div style="width: 1023px; height: 93px; left: 208px; top: 1399px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">CONHEÇA AS VERTICAIS QUE A  PLATAFORMA CONECT UNIVERSIDADES LHE OFERECE.</div>
-    <div style="width: 1440px; height: 913px; left: 0px; top: 1983px; position: absolute; background: rgba(0, 0, 0, 0.69)"></div>
-    <div style="width: 976px; height: 817px; left: 227px; top: 2031px; position: absolute; background: white; border-radius: 22px"></div>
-    <div data-property-1="Default" style="width: 108px; height: 31px; left: 666px; top: 54px; position: absolute">
-        <div style="width: 108px; height: 31px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 19px; display: inline-flex">
-            <div style="width: 100px; height: 24px; position: relative">
-                <div data-property-1="HOME" style="width: 100px; height: 24px; left: 0px; top: 0px; position: absolute">
-                    <div style="width: 100px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">SERVIÇOS</div>
-                </div>
-            </div>
-            <div style="align-self: stretch; opacity: 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
-                <div data-property-1="Default" style="align-self: stretch; height: 41px; position: relative">
-                    <div data-property-1="HOME" style="width: 108px; height: 41px; left: 0px; top: 0px; position: absolute; background: white">
-                        <div style="width: 108px; height: 41px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Inter; font-weight: 500; letter-spacing: 0.32px; word-wrap: break-word">  Estágio para Universidad Privada</div>
-                    </div>
-                </div>
-                <div data-property-1="Default" style="align-self: stretch; height: 41px; position: relative">
-                    <div data-property-1="HOME" style="width: 108px; height: 41px; left: 0px; top: 0px; position: absolute; background: white">
-                        <div style="width: 108px; height: 41px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Inter; font-weight: 500; letter-spacing: 0.32px; word-wrap: break-word"> Jovem Aprendiz</div>
-                    </div>
-                </div>
-                <div data-property-1="Default" style="align-self: stretch; height: 41px; position: relative">
-                    <div data-property-1="HOME" style="width: 108px; height: 41px; left: 0px; top: 0px; position: absolute; background: white">
-                        <div style="width: 108px; height: 41px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 16px; font-family: Inter; font-weight: 500; letter-spacing: 0.32px; word-wrap: break-word">  Estágio para Universidad Pública</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div style="width: 1069px; height: 504px; left: 185px; top: 810px; position: absolute; background: #000417; border-radius: 32px"></div>
-    
-    <img class="foto1" style="width: 296px; height: 310px; left: 898px; top: 892px; position: absolute; border-radius: 34px" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/7474e075519823d201abb2fb2e711d09ca720e1a.png?raw=true"/>
-    
-    <div style="left: 257px; top: 857px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">A Conect Universidades</div>
-    <div style="width: 627px; height: 261px; left: 257px; top: 930px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">A Plataforma Conect Universidades foi criada em 2019, uma plataforma online, totalmente moderna e embarca na tecnologia que mais cresce no mundo, o low-code. Buscando Inovação e Automatização no processo da Gestão de Estagio e Jovem Aprendiz. Estamos trazendo uma experiência inovadora aos estudantes, aos agentes de integração, as empresas e as instituições de ensino, com velocidade, tecnologia e assertividade em suas contratações.</div>
-    <div data-property-1="Component 12" style="width: 260px; height: 75px; left: 550px; top: 1202px; position: absolute">
-        <div style="width: 260px; height: 75px; left: 0px; top: 0px; position: absolute; background: #FFA800; border-radius: 9px"></div>
-        <div style="left: 41px; top: 24px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">CONHEÇA MAIS</div>
-    </div>
-    <div data-property-1="HOME" style="width: 146px; height: 24px; left: 85px; top: 3756px; position: absolute">
-        <div style="width: 146px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">Mapa do site</div>
-    </div>
-    <div data-property-1="HOME" style="width: 146px; height: 24px; left: 85px; top: 3796px; position: absolute">
-        <div style="width: 146px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Home</div>
-    </div>
-    <div data-property-1="HOME" style="width: 146px; height: 24px; left: 193px; top: 3796px; position: absolute">
-        <div style="width: 146px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Quem somos</div>
-    </div>
-    <div data-property-1="HOME" style="width: 146px; height: 24px; left: 85px; top: 3848px; position: absolute">
-        <div style="width: 146px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Estágios</div>
-    </div>
-    <div data-property-1="HOME" style="width: 146px; height: 24px; left: 199px; top: 3848px; position: absolute">
-        <div style="width: 146px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Cursos</div>
-    </div>
-    <div data-property-1="HOME" style="width: 146px; height: 24px; left: 85px; top: 3900px; position: absolute">
-        <div style="width: 146px; height: 24px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Contato</div>
-    </div>
-    
-    <img class="logo1" style="width: 213px; height: 49px; left: 7px; top: 36px; position: absolute" src=https://github.com/Camilasimoes1/estagiofinal/blob/main/c4e8c9350be8d5cd35c84486e5c3635f2a393cff.png?raw=true"" />
-    
-    <div style="width: 260px; height: 49px; left: 60px; top: 36px; position: absolute; background: #1E1E1E"></div>
-    <div style="width: 264px; height: 29px; left: 65px; top: 46px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Conect Universidades</div>
-    
-    <img class="logo2" style="width: 213px; height: 49px; left: 26px; top: 3679px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/c4e8c9350be8d5cd35c84486e5c3635f2a393cff.png?raw=true" />
-    
-    <div style="width: 260px; height: 49px; left: 79px; top: 3679px; position: absolute; background: #1E1E1E"></div>
-    <div style="width: 264px; height: 29px; left: 84px; top: 3689px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Conect Universidades</div>
-    
-    <img class="afiliado" style="width: 794px; height: 368px; left: 609px; top: 3640px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/3bb68078c06d6d6b5bf607029bcc283e5c5c9a89.png?raw=true" />
-    
-    <div style="left: 550px; top: 2059px; position: absolute; color: black; font-size: 32px; font-family: Inknut Antiqua; font-weight: 400; word-wrap: break-word">Obtenha uma demostração</div>
-    <div style="width: 707px; height: 96px; left: 362px; top: 2125px; position: absolute; background: #D9D9D9; border-radius: 4px"></div>
-    <div style="width: 707px; height: 96px; left: 362px; top: 2233px; position: absolute; background: #D9D9D9; border-radius: 4px"></div>
-    <div style="width: 707px; height: 96px; left: 362px; top: 2344px; position: absolute; background: #D9D9D9; border-radius: 4px"></div>
-    <div style="width: 707px; height: 96px; left: 362px; top: 2455px; position: absolute; background: #D9D9D9; border-radius: 4px"></div>
-    <div style="width: 707px; height: 96px; left: 362px; top: 2566px; position: absolute; background: #D9D9D9; border-radius: 4px"></div>
-    <div style="width: 330px; height: 80px; left: 518px; top: 2693px; position: absolute; background: #000B48; border-radius: 23px"></div>
-    <div style="width: 192px; height: 24px; left: 382px; top: 2161px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 24px; font-family: Inder; font-weight: 400; word-wrap: break-word">Nome completo</div>
-    <div style="width: 192px; height: 24px; left: 382px; top: 2269px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 24px; font-family: Inder; font-weight: 400; word-wrap: break-word">Email</div>
-    <div style="width: 192px; height: 24px; left: 382px; top: 2380px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 24px; font-family: Inder; font-weight: 400; word-wrap: break-word">CPF</div>
-    <div style="width: 192px; height: 24px; left: 382px; top: 2491px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 24px; font-family: Inder; font-weight: 400; word-wrap: break-word">Telefone</div>
-    <div style="width: 192px; height: 24px; left: 382px; top: 2599px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 24px; font-family: Inder; font-weight: 400; word-wrap: break-word">Instituição</div>
-    <div style="left: 625px; top: 2715px; position: absolute; color: white; font-size: 32px; font-family: Homenaje; font-weight: 400; word-wrap: break-word">ENVIAR</div>
-    <div style="width: 359px; height: 382px; left: 119px; top: 1520px; position: absolute">
-        
-        <img class="q1" style="width: 359px; height: 382px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/5f33f0521beb191afb20dd9788e5f04ea4febd36.jpg?raw=true" />
-        
-        <div style="width: 229px; height: 47px; left: 65px; top: 55px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Gestão de Estágio em Universidade Privada</div>
-        <div style="width: 251px; height: 143px; left: 54px; top: 129px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">A solução de Gestão de Estágios proporciona a conexão entre Estudante, Instituição de Ensino, Agente de Integração e Empresas</div>
-        <div data-property-1="Component 12" style="width: 178px; height: 48px; left: 90px; top: 299px; position: absolute">
-            <div style="width: 178px; height: 48px; left: 0px; top: 0px; position: absolute; background: #FFA800; border-radius: 9px"></div>
-            <div style="left: 28px; top: 15.36px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">CONHEÇA MAIS</div>
-        </div>
-    </div>
-    <div style="width: 359px; height: 382px; left: 551px; top: 1520px; position: absolute">
-       
-        <img class="q2" style="width: 359px; height: 382px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/1c85d739c2ec6dae2c3e3eb7119d2760d5fdadc1.jpg?raw=true" />
-        
-        <div style="left: 100px; top: 73px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Jovem Aprendiz</div>
-        <div style="width: 286px; height: 155px; left: 36px; top: 113px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">O programa Jovem Aprendiz é um projeto do governo federal para incentivar empresas a desenvolverem programas de aprendizagem para jovens e adolescentes</div>
-        <div data-property-1="Component 12" style="width: 178px; height: 48px; left: 90px; top: 284px; position: absolute">
-            <div style="width: 178px; height: 48px; left: 0px; top: 18px; position: absolute; background: #FFA800; border-radius: 9px"></div>
-            <div style="left: 30.12px; top: 33px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">CONHEÇA MAIS</div>
-        </div>
-    </div>
-    <div style="width: 359px; height: 382px; left: 983px; top: 1520px; position: absolute">
-       
-        <img class="q3" style="width: 359px; height: 382px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/bb208412a9d580ce1283410a9b9c6b232f496971.png?raw=true" />
-       
-        <div style="width: 359px; height: 382px; left: 542px; top: -222px; position: absolute; background: rgba(0, 0, 0, 0.60)"></div>
-        <div style="width: 232px; height: 47px; left: 63px; top: 45px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Gestão de Estágio em Universidade  Pública</div>
-        <div style="width: 331px; height: 191px; left: 14px; top: 110px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">A Solução de Gestão de Estágio em Universidade Pública é voltada para os setores administrativos, mas tambem pode abranger áreas especializadas, como a Saude, Comunicação e Departamento Juridico.</div>
-        <div data-property-1="Component 12" style="width: 178px; height: 48px; left: 90px; top: 301px; position: absolute">
-            <div style="width: 178px; height: 48px; left: 0px; top: 0px; position: absolute; background: #FFA800; border-radius: 9px"></div>
-            <div style="left: 30.12px; top: 15.36px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">CONHEÇA MAIS</div>
-        </div>
-    </div>
-    
-    <img class="banner1" style="width: 1440px; height: 661px; left: 0px; top: 109px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/a1e859a055508257cb12fcb1be2ea0719348f1f4.png?raw=true" />
-    
-    <div data-property-1="Frame 5" style="width: 1191px; height: 569px; left: 137px; top: 2970px; position: absolute; background: white; overflow: hidden">
-        <img style="width: 1191px; height: 569px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/a1e859a055508257cb12fcb1be2ea0719348f1f4.png?raw=true" />
-    </div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inknut Antiqua:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Homenaje:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="homeconecta">
+    		<div class="homeconecta-child">
+    		</div>
+    		<div class="homeconecta-item">
+    		</div>
+    		<div class="component-2">
+      			<div class="home">HOME</div>
+    		</div>
+    		<div class="component-3">
+      			<div class="home">QUEM SOMOS</div>
+    		</div>
+    		<div class="component-5">
+      			<div class="home">CURSOS</div>
+    		</div>
+    		<div class="component-6">
+      			<div class="home">CONTATO</div>
+    		</div>
+    		<b class="conhea-as-verticais-container">
+      			<p class="conhea-as-verticais">CONHEÇA AS VERTICAIS QUE A</p>
+      			<p class="conhea-as-verticais">PLATAFORMA CONECT UNIVERSIDADES LHE OFERECE.</p>
+    		</b>
+    		<div class="homeconecta-inner">
+    		</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="frame-div">
+      			<div class="frame-parent">
+        				<div class="component-4-wrapper">
+          					<div class="component-4">
+            						<div class="home">SERVIÇOS</div>
+          					</div>
+        				</div>
+        				<div class="component-43-parent">
+          					<div class="component-43">
+            						<div class="component-42">
+              							<div class="home5">  Estágio para Universidad Privada</div>
+            						</div>
+          					</div>
+          					<div class="component-44">
+            						<div class="component-42">
+              							<div class="home6"> Jovem Aprendiz</div>
+            						</div>
+          					</div>
+          					<div class="component-44">
+            						<div class="component-42">
+              							<div class="home5">  Estágio para Universidad Pública</div>
+            						</div>
+          					</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="homeconecta-child1">
+    		</div>
+    		<img class="rectangle-icon" alt="foto1" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/7474e075519823d201abb2fb2e711d09ca720e1a.png?raw=true">
+    		
+    		<div class="a-conect-universidades">A Conect Universidades</div>
+    		<div class="a-plataforma-conect">A Plataforma Conect Universidades foi criada em 2019, uma plataforma online, totalmente moderna e embarca na tecnologia que mais cresce no mundo, o low-code. Buscando Inovação e Automatização no processo da Gestão de Estagio e Jovem Aprendiz. Estamos trazendo uma experiência inovadora aos estudantes, aos agentes de integração, as empresas e as instituições de ensino, com velocidade, tecnologia e assertividade em suas contratações.</div>
+    		<div class="component-14">
+      			<div class="component-14-child">
+      			</div>
+      			<div class="conhea-mais">Conheça mais</div>
+    		</div>
+    		<div class="component-51">
+      			<div class="home8">Mapa do site</div>
+    		</div>
+    		<div class="component-431">
+      			<div class="home">Home</div>
+    		</div>
+    		<div class="component-441">
+      			<div class="home">Quem somos</div>
+    		</div>
+    		<div class="component-451">
+      			<div class="home">Estágios</div>
+    		</div>
+    		<div class="component-46">
+      			<div class="home">Cursos</div>
+    		</div>
+    		<div class="component-47">
+      			<div class="home">Contato</div>
+    		</div>
+    		<img class="captura-de-tela-2024-07-04-173" alt="logo" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/c4e8c9350be8d5cd35c84486e5c3635f2a393cff.png?raw=true">
+    		
+    		<div class="homeconecta-child2">
+    		</div>
+    		<div class="conect-universidades">Conect Universidades</div>
+    		<img class="captura-de-tela-2024-07-04-1731" alt="logo2" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/c4e8c9350be8d5cd35c84486e5c3635f2a393cff.png?raw=true">
+    		
+    		<div class="homeconecta-child3">
+    		</div>
+    		<div class="conect-universidades1">Conect Universidades</div>
+    		<img class="captura-de-tela-2024-07-04-225" alt="afiliado" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/3bb68078c06d6d6b5bf607029bcc283e5c5c9a89.png?raw=true">
+    		
+    		<div class="obtenha-uma-demostrao">Obtenha uma demostração</div>
+    		<div class="homeconecta-child4">
+    		</div>
+    		<div class="homeconecta-child5">
+    		</div>
+    		<div class="homeconecta-child6">
+    		</div>
+    		<div class="homeconecta-child7">
+    		</div>
+    		<div class="homeconecta-child8">
+    		</div>
+    		<div class="homeconecta-child9">
+    		</div>
+    		<div class="nome-completo">Nome completo</div>
+    		<div class="email">Email</div>
+    		<div class="cpf">CPF</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="instituio">Instituição</div>
+    		<div class="enviar">ENVIAR</div>
+    		<div class="component-17component-16">
+      			<img class="component-17component-16-child" alt="uni1" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/5f33f0521beb191afb20dd9788e5f04ea4febd36.jpg?raw=true">
+      			
+      			<b class="gesto-de-estgio">Gestão de Estágio em Universidade Privada</b>
+      			<div class="a-soluo-de">A solução de Gestão de Estágios proporciona a conexão entre Estudante, Instituição de Ensino, Agente de Integração e Empresas</div>
+      			<div class="component-141">
+        				<div class="component-14-child">
+        				</div>
+        				<div class="conhea-mais">Conheça mais</div>
+      			</div>
+    		</div>
+    		<div class="component-25component-24">
+      			<img class="component-17component-16-child" alt="uni2" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/1c85d739c2ec6dae2c3e3eb7119d2760d5fdadc1.jpg?raw=true">
+      			
+      			<b class="jovem-aprendiz">Jovem Aprendiz</b>
+      			<div class="o-programa-jovem">O programa Jovem Aprendiz é um projeto do governo federal para incentivar empresas a desenvolverem programas de aprendizagem para jovens e adolescentes</div>
+      			<div class="component-22">
+        				<div class="component-14-child">
+        				</div>
+        				<div class="conhea-mais">Conheça mais</div>
+      			</div>
+    		</div>
+    		<div class="component-21component-20">
+      			<img class="component-17component-16-child" alt="uni3" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/bb208412a9d580ce1283410a9b9c6b232f496971.png?raw=true">
+      			
+      			<img class="component-21component-20-item" alt="" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/bb208412a9d580ce1283410a9b9c6b232f496971.png?raw=true">
+      			
+      			<b class="gesto-de-estgio1">Gestão de Estágio em Universidade  Pública</b>
+      			<div class="a-soluo-de1">A Solução de Gestão de Estágio em Universidade Pública é voltada para os setores administrativos, mas tambem pode abranger áreas especializadas, como a Saude, Comunicação e Departamento Juridico.</div>
+      			<div class="component-18">
+        				<div class="component-14-child">
+        				</div>
+        				<div class="conhea-mais">Conheça mais</div>
+      			</div>
+    		</div>
+    		<img class="captura-de-tela-2024-07-25-110" alt="banner" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/a1e859a055508257cb12fcb1be2ea0719348f1f4.png?raw=true">
+    		
+    		<div class="component-57">
+      			<div class="rectangle-parent">
+        				<img class="group-child" alt="" src="https://github.com/Camilasimoes1/estagiofinal/blob/main/a1e859a055508257cb12fcb1be2ea0719348f1f4.png?raw=true">
+        				
+        				
+      			</div>
+    		</div>
+  	</div>
+  	
+  	<style>
+        .homeconecta-child {
+  	position: absolute;
+  	top: -1px;
+  	left: 0px;
+  	background-color: #1e1e1e;
+  	width: 1524px;
+  	height: 109px;
+}
+.homeconecta-item {
+  	position: absolute;
+  	top: 3611px;
+  	left: 0px;
+  	background-color: #1e1e1e;
+  	width: 1524px;
+  	height: 425px;
+}
+.home {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	display: inline-block;
+}
+.component-2 {
+  	position: absolute;
+  	top: 53px;
+  	left: 478px;
+  	width: 60px;
+  	height: 48px;
+}
+.component-3 {
+  	position: absolute;
+  	top: 53px;
+  	left: 571px;
+  	width: 146px;
+  	height: 24px;
+}
+.component-5 {
+  	position: absolute;
+  	top: 53px;
+  	left: 884px;
+  	width: 83px;
+  	height: 24px;
+}
+.component-6 {
+  	position: absolute;
+  	top: 53px;
+  	left: 1000px;
+  	width: 100px;
+  	height: 24px;
+}
+.conhea-as-verticais {
+  	margin: 0;
+}
+.conhea-as-verticais-container {
+  	position: absolute;
+  	top: 1399px;
+  	left: 208px;
+  	font-size: 36px;
+  	display: inline-block;
+  	color: #000;
+  	text-align: center;
+  	width: 1023px;
+  	height: 93px;
+}
+.homeconecta-inner {
+  	position: absolute;
+  	top: 1983px;
+  	left: 0px;
+  	background-color: rgba(0, 0, 0, 0.69);
+  	width: 1525px;
+  	height: 913px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 2027px;
+  	left: 274px;
+  	border-radius: 22px;
+  	background-color: #fff;
+  	width: 976px;
+  	height: 817px;
+}
+.component-4 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 100px;
+  	height: 24px;
+}
+.component-4-wrapper {
+  	width: 100px;
+  	position: relative;
+  	height: 24px;
+}
+.home5 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.02em;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+}
+.component-42 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #fff;
+}
+.component-43 {
+  	align-self: stretch;
+  	position: relative;
+  	height: 41px;
+}
+.home6 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.02em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+}
+.component-44 {
+  	align-self: stretch;
+  	position: relative;
+  	height: 41px;
+  	margin-top: -50px;
+}
+.component-43-parent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+  	font-size: 16px;
+  	color: #000;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 108px;
+  	height: 31px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 19px;
+}
+.frame-div {
+  	position: absolute;
+  	top: 50px;
+  	left: 739px;
+  	width: 108px;
+  	height: 31px;
+}
+.homeconecta-child1 {
+  	position: absolute;
+  	top: 853px;
+  	left: 227px;
+  	border-radius: 32px;
+  	background-color: #000417;
+  	width: 1069px;
+  	height: 504px;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 935px;
+  	left: 940px;
+  	border-radius: 34px;
+  	width: 296px;
+  	height: 310px;
+  	object-fit: cover;
+}
+.a-conect-universidades {
+  	position: absolute;
+  	top: 900px;
+  	left: 299px;
+  	font-size: 36px;
+}
+.a-plataforma-conect {
+  	position: absolute;
+  	top: 951px;
+  	left: 299px;
+  	font-size: 24px;
+  	display: inline-block;
+  	width: 627px;
+  	height: 261px;
+}
+.component-14-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 9px;
+  	background-color: #ffa800;
+}
+.conhea-mais {
+  	position: absolute;
+  	top: 32%;
+  	left: 16.92%;
+  	font-weight: 500;
+}
+.component-14 {
+  	position: absolute;
+  	top: 1245px;
+  	left: 632px;
+  	width: 260px;
+  	height: 75px;
+  	font-size: 24px;
+}
+.home8 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	font-weight: 600;
+  	display: inline-block;
+}
+.component-51 {
+  	position: absolute;
+  	top: 3756px;
+  	left: 85px;
+  	width: 146px;
+  	height: 24px;
+}
+.component-431 {
+  	position: absolute;
+  	top: 3796px;
+  	left: 85px;
+  	width: 146px;
+  	height: 24px;
+}
+.component-441 {
+  	position: absolute;
+  	top: 3796px;
+  	left: 193px;
+  	width: 146px;
+  	height: 24px;
+}
+.component-451 {
+  	position: absolute;
+  	top: 3848px;
+  	left: 85px;
+  	width: 146px;
+  	height: 24px;
+}
+.component-46 {
+  	position: absolute;
+  	top: 3848px;
+  	left: 199px;
+  	width: 146px;
+  	height: 24px;
+}
+.component-47 {
+  	position: absolute;
+  	top: 3900px;
+  	left: 85px;
+  	width: 146px;
+  	height: 24px;
+}
+.captura-de-tela-2024-07-04-173 {
+  	position: absolute;
+  	top: 36px;
+  	left: 7px;
+  	width: 213px;
+  	height: 49px;
+  	object-fit: cover;
+}
+.homeconecta-child2 {
+  	position: absolute;
+  	top: 36px;
+  	left: 60px;
+  	background-color: #1e1e1e;
+  	width: 260px;
+  	height: 49px;
+}
+.conect-universidades {
+  	position: absolute;
+  	top: 46px;
+  	left: 65px;
+  	font-size: 24px;
+  	display: inline-block;
+  	width: 264px;
+  	height: 29px;
+}
+.captura-de-tela-2024-07-04-1731 {
+  	position: absolute;
+  	top: 3679px;
+  	left: 26px;
+  	width: 213px;
+  	height: 49px;
+  	object-fit: cover;
+}
+.homeconecta-child3 {
+  	position: absolute;
+  	top: 3679px;
+  	left: 79px;
+  	background-color: #1e1e1e;
+  	width: 260px;
+  	height: 49px;
+}
+.conect-universidades1 {
+  	position: absolute;
+  	top: 3689px;
+  	left: 84px;
+  	font-size: 24px;
+  	display: inline-block;
+  	width: 264px;
+  	height: 29px;
+}
+.captura-de-tela-2024-07-04-225 {
+  	position: absolute;
+  	top: 3640px;
+  	left: 662px;
+  	width: 794px;
+  	height: 368px;
+  	object-fit: cover;
+}
+.obtenha-uma-demostrao {
+  	position: absolute;
+  	top: 2038px;
+  	left: 525px;
+  	font-size: 32px;
+  	font-family: 'Inknut Antiqua';
+  	color: #000;
+}
+.homeconecta-child4 {
+  	position: absolute;
+  	top: 2121px;
+  	left: 409px;
+  	border-radius: 4px;
+  	background-color: #d9d9d9;
+  	width: 707px;
+  	height: 96px;
+}
+.homeconecta-child5 {
+  	position: absolute;
+  	top: 2229px;
+  	left: 409px;
+  	border-radius: 4px;
+  	background-color: #d9d9d9;
+  	width: 707px;
+  	height: 96px;
+}
+.homeconecta-child6 {
+  	position: absolute;
+  	top: 2340px;
+  	left: 409px;
+  	border-radius: 4px;
+  	background-color: #d9d9d9;
+  	width: 707px;
+  	height: 96px;
+}
+.homeconecta-child7 {
+  	position: absolute;
+  	top: 2451px;
+  	left: 409px;
+  	border-radius: 4px;
+  	background-color: #d9d9d9;
+  	width: 707px;
+  	height: 96px;
+}
+.homeconecta-child8 {
+  	position: absolute;
+  	top: 2562px;
+  	left: 409px;
+  	border-radius: 4px;
+  	background-color: #d9d9d9;
+  	width: 707px;
+  	height: 96px;
+}
+.homeconecta-child9 {
+  	position: absolute;
+  	top: 2689px;
+  	left: 565px;
+  	border-radius: 23px;
+  	background-color: #000b48;
+  	width: 394px;
+  	height: 96px;
+}
+.nome-completo {
+  	position: absolute;
+  	top: 2157px;
+  	left: 429px;
+  	font-size: 24px;
+  	font-family: Inder;
+  	color: rgba(0, 0, 0, 0.53);
+  	display: inline-block;
+  	width: 192px;
+  	height: 24px;
+}
+.email {
+  	position: absolute;
+  	top: 2265px;
+  	left: 429px;
+  	font-size: 24px;
+  	font-family: Inder;
+  	color: rgba(0, 0, 0, 0.53);
+  	display: inline-block;
+  	width: 192px;
+  	height: 24px;
+}
+.cpf {
+  	position: absolute;
+  	top: 2376px;
+  	left: 429px;
+  	font-size: 24px;
+  	font-family: Inder;
+  	color: rgba(0, 0, 0, 0.53);
+  	display: inline-block;
+  	width: 192px;
+  	height: 24px;
+}
+.telefone {
+  	position: absolute;
+  	top: 2487px;
+  	left: 429px;
+  	font-size: 24px;
+  	font-family: Inder;
+  	color: rgba(0, 0, 0, 0.53);
+  	display: inline-block;
+  	width: 192px;
+  	height: 24px;
+}
+.instituio {
+  	position: absolute;
+  	top: 2595px;
+  	left: 429px;
+  	font-size: 24px;
+  	font-family: Inder;
+  	color: rgba(0, 0, 0, 0.53);
+  	display: inline-block;
+  	width: 192px;
+  	height: 24px;
+}
+.enviar {
+  	position: absolute;
+  	top: 2715px;
+  	left: 713px;
+  	font-size: 40px;
+  	font-family: Homenaje;
+}
+.component-17component-16-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.gesto-de-estgio {
+  	position: absolute;
+  	height: 12.3%;
+  	width: 63.79%;
+  	top: 14.4%;
+  	left: 18.11%;
+  	display: inline-block;
+}
+.a-soluo-de {
+  	position: absolute;
+  	height: 37.43%;
+  	width: 69.92%;
+  	top: 33.77%;
+  	left: 15.04%;
+  	display: inline-block;
+}
+.component-141 {
+  	position: absolute;
+  	height: 12.57%;
+  	width: 49.58%;
+  	top: 78.27%;
+  	right: 25.35%;
+  	bottom: 9.16%;
+  	left: 25.07%;
+  	text-align: left;
+  	font-size: 16px;
+}
+.component-17component-16 {
+  	position: absolute;
+  	top: 1520px;
+  	left: 119px;
+  	width: 359px;
+  	height: 382px;
+  	text-align: center;
+}
+.jovem-aprendiz {
+  	position: absolute;
+  	top: 19.11%;
+  	left: 27.86%;
+}
+.o-programa-jovem {
+  	position: absolute;
+  	height: 40.58%;
+  	width: 79.67%;
+  	top: 29.58%;
+  	left: 10.03%;
+  	text-align: center;
+  	display: inline-block;
+}
+.component-22 {
+  	position: absolute;
+  	height: 12.57%;
+  	width: 49.58%;
+  	top: 74.35%;
+  	right: 25.35%;
+  	bottom: 13.09%;
+  	left: 25.07%;
+  	font-size: 16px;
+}
+.component-25component-24 {
+  	position: absolute;
+  	top: 1520px;
+  	left: 551px;
+  	width: 359px;
+  	height: 382px;
+}
+.component-21component-20-item {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: -58.12%;
+  	right: -150.97%;
+  	bottom: 58.12%;
+  	left: 150.97%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.gesto-de-estgio1 {
+  	position: absolute;
+  	height: 12.3%;
+  	width: 64.62%;
+  	top: 11.78%;
+  	left: 17.55%;
+  	display: inline-block;
+  	white-space: pre-wrap;
+}
+.a-soluo-de1 {
+  	position: absolute;
+  	height: 50%;
+  	width: 92.2%;
+  	top: 28.8%;
+  	left: 3.9%;
+  	display: inline-block;
+}
+.component-18 {
+  	position: absolute;
+  	height: 12.57%;
+  	width: 49.58%;
+  	top: 78.8%;
+  	right: 25.35%;
+  	bottom: 8.64%;
+  	left: 25.07%;
+  	text-align: left;
+  	font-size: 16px;
+}
+.component-21component-20 {
+  	position: absolute;
+  	top: 1520px;
+  	left: 983px;
+  	width: 359px;
+  	height: 382px;
+  	text-align: center;
+}
+.captura-de-tela-2024-07-25-110 {
+  	position: absolute;
+  	top: 109px;
+  	left: 0px;
+  	width: 1524px;
+  	height: 701px;
+  	object-fit: cover;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 1289px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 2578px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 3867px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 5156px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 6445px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child4 {
+  	position: absolute;
+  	top: 0px;
+  	left: 7820px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child5 {
+  	position: absolute;
+  	top: 0px;
+  	left: 9195px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child6 {
+  	position: absolute;
+  	top: 0px;
+  	left: 10484px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child7 {
+  	position: absolute;
+  	top: 8px;
+  	left: 11764px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child8 {
+  	position: absolute;
+  	top: 8px;
+  	left: 13044px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child9 {
+  	position: absolute;
+  	top: 8px;
+  	left: 14302px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.group-child10 {
+  	position: absolute;
+  	top: 8px;
+  	left: 15560px;
+  	width: 1191px;
+  	height: 569px;
+  	object-fit: cover;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 16751px;
+  	height: 577px;
+}
+.component-57 {
+  	position: absolute;
+  	top: 2966px;
+  	left: 167px;
+  	background-color: #fff;
+  	width: 1191px;
+  	height: 569px;
+  	overflow: hidden;
+}
+.homeconecta {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 4036px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: Inter;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+    </style>
+  	
+  	
+</body>
+</html>
   
 
